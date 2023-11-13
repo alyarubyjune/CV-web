@@ -1,0 +1,31 @@
+img{
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin-left: 15px;
+}
+.comment {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.biru{
+  background-color: aliceblue;
+  color: grey;
+}
+
+/*.navbar-brand:hover {
+  background-color: grey;
+  color: black;
+}*/
+
+.komentar {
+  background-color: skyblue;
+  color: grey;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.tambah {
+  margin: 10px 0 10px 0;
+}
